@@ -17,7 +17,7 @@ public class lab3ex1 {
 		String address =  sc.nextLine();
 		
 		 
-		
+		//Iamgoingtochange
 		
 		student s1 = new student(name, itNo, address);
 		
